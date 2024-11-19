@@ -132,3 +132,4 @@ C:\Users\micka\Github Project\DotEnv\PokemonAPINet\bin\Debug\net8.0\PokemonAPINe
 C:\Users\micka\Github Project\DotEnv\PokemonAPINet\obj\Debug\net8.0\PokemonA.0B0E4960.Up2Date
 C:\Users\micka\Github Project\DotEnv\PokemonAPINet\obj\Debug\net8.0\PokemonAPINet.genruntimeconfig.cache
 C:\Users\micka\Github Project\DotEnv\PokemonAPINet\obj\Debug\net8.0\ref\PokemonAPINet.dll
+C:\Users\micka\Github Project\DotEnv\PokemonAPINet\obj\Debug\net8.0\PokemonAPINet.sourcelink.json
