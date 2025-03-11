@@ -41,7 +41,7 @@ public class PokemonController : ControllerBase
         }
     }
     
-    [HttpGet("GetPokemonById")]
+    [HttpGet("GetPokemonById/{Id}")]
     public async Task < ActionResult < Pokemon >> GetPokemonById(int Id) {
         Pokemon? pokemon = await DBContext.Pokemons.Select(s => new Pokemon() {
             Id = s.Id,
